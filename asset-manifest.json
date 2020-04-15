@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/crunch-price/static/css/main.7a4a6115.chunk.css",
+    "main.js": "/crunch-price/static/js/main.8a27bf3f.chunk.js",
+    "main.js.map": "/crunch-price/static/js/main.8a27bf3f.chunk.js.map",
+    "runtime-main.js": "/crunch-price/static/js/runtime-main.84430403.js",
+    "runtime-main.js.map": "/crunch-price/static/js/runtime-main.84430403.js.map",
+    "static/js/2.e06dff2a.chunk.js": "/crunch-price/static/js/2.e06dff2a.chunk.js",
+    "static/js/2.e06dff2a.chunk.js.map": "/crunch-price/static/js/2.e06dff2a.chunk.js.map",
+    "index.html": "/crunch-price/index.html",
+    "precache-manifest.c444c97412659bb3f2cdd9a5cb78a756.js": "/crunch-price/precache-manifest.c444c97412659bb3f2cdd9a5cb78a756.js",
+    "service-worker.js": "/crunch-price/service-worker.js",
+    "static/css/main.7a4a6115.chunk.css.map": "/crunch-price/static/css/main.7a4a6115.chunk.css.map",
+    "static/js/2.e06dff2a.chunk.js.LICENSE.txt": "/crunch-price/static/js/2.e06dff2a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.84430403.js",
+    "static/js/2.e06dff2a.chunk.js",
+    "static/css/main.7a4a6115.chunk.css",
+    "static/js/main.8a27bf3f.chunk.js"
+  ]
+}
